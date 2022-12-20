@@ -14,7 +14,7 @@ The smart contract <a href="https://goerli.etherscan.io/address/0xbfc8aaaf8c1c61
 
 ```bash
 # Clone this project
-$ git clone https://github.com/gab0071/lw3-mood
+$ git clone https://github.com/catherinee24/lw3-mood
 
 # Access
 $ cd lw3-mood
