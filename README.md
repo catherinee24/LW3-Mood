@@ -17,7 +17,7 @@ The smart contract <a href="https://goerli.etherscan.io/address/0xbfc8aaaf8c1c61
 $ git clone https://github.com/catherinee24/LW3-Mood
 
 # Access
-$ cd lw3-mood
+$ cd LW3-Mood
 
 # Install dependencies
 $ npm install
